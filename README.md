@@ -1,4 +1,4 @@
-# magic_method
+# practiceMagicMethod
 
 このリポジトリでは、phpのマジックメソッドについてより詳しくなるための練習用のリポイジトリである
 
